@@ -1,0 +1,2 @@
+rootProject.name = "androidWebView_webSDK"
+include ':app'
